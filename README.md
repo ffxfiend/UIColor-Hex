@@ -7,9 +7,9 @@ Examples
 ```objc
 // Setting colors
 
-UIcolor *color1 = [UIColor colorFromHexString:@"0xFF5E5E5E"];
-UIcolor *color2 = [UIColor colorFromHexString:@"0xFF5AC0E5"];
-UIcolor *color3 = [UIColor colorFromHexString:@"0xFF79C042"];
+UIColor *color1 = [UIColor colorFromHexString:@"0xFF5E5E5E"];
+UIColor *color2 = [UIColor colorFromHexString:@"0xFF5AC0E5"];
+UIColor *color3 = [UIColor colorFromHexString:@"0xFF79C042"];
 ```
 
 Setup Instructions
